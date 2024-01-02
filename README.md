@@ -1,4 +1,4 @@
-Caeser Cipher Encryption Program
+# Caeser Cipher Encryption Program
 
 My first project using C!
 This is my first project in utilizing both the C programming language and implementing encryption and decryption of passwords.
